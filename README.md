@@ -89,10 +89,6 @@ Windows security and monitoring tool focused on observing system events, process
 
 <div align="center">
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knyazovich&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=b0b0b0" height="165"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="90%"/>
