@@ -89,9 +89,6 @@ Windows security and monitoring tool focused on observing system events, process
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Knyazovich&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=false&bg_color=00000000&title_color=ffffff&text_color=b0b0b0&icon_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Knyazovich&theme=dark&hide_border=true&background=00000000&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b0b0b0&dates=6a6a6a" height="165"/>
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knyazovich&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=b0b0b0" height="165"/>
@@ -110,7 +107,7 @@ Windows security and monitoring tool focused on observing system events, process
 
 <div align="center">
 
-**Understand the software. Build what comes next.**
+**Knyazovich README.md**
 
 <br/>
 
