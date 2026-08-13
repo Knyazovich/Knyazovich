@@ -92,6 +92,32 @@ A Windows security and monitoring project focused on observing system behavior, 
 
 <br/>
 
+## Security Research
+
+<br/>
+
+### GitHub Advisory Database
+
+**MathLive — CVE-2026-54705**
+
+Community security advisory contribution focused on improving the technical documentation of a MathLive XSS vulnerability, including affected rendering paths, impact, references, and vulnerability context.
+
+**Status:** `Open`
+
+**Repository:** [`github/advisory-database`](https://github.com/github/advisory-database)
+
+**Pull Request:** [`#9121`](https://github.com/github/advisory-database/pull/9121)
+
+**Advisory:** [`GHSA-fm7p-gw32-828p`](https://github.com/advisories/GHSA-fm7p-gw32-828p)
+
+`Security Research` `CVE` `XSS` `GitHub Advisory Database`
+
+<br/>
+
+---
+
+<br/>
+
 ## Activity
 
 <br/>
