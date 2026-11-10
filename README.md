@@ -1,149 +1,129 @@
-<div align="center">
+`<div align="center">`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,100:1a1a1a&section=header&text=Knyazovich&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Application%20Development%20%C2%B7%20Windows&descAlignY=58&descSize=16&descColor=9a9a9a" width="100%"/>
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%"/>`
 
-<br/>
+`<br/>`
 
-<a href="https://github.com/Knyazovich">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Understanding+what+happens+behind+software;From+binaries+to+complete+applications;Reverse+Engineering+%C2%B7+Windows+%C2%B7+C%2B%2B+%C2%B7+Python&font=Fira+Code&center=true&width=700&height=40&color=cccccc&vCenter=true&size=18&pause=1800&background=00000000" alt="typing" />
-</a>
+`<img src="https://readme-typing-svg.demolab.com/?lines=Understanding+software+from+the+inside+out;Analyzing+binaries.+Exploring+systems.;Turning+low-level+knowledge+into+real+software.;Reverse+Engineering+%C2%B7+Windows+Internals+%C2%B7+C%2B%2B&font=Fira+Code&center=true&width=800&height=45&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>`
 
-<br/><br/>
+`<br/><br/>`
 
-I am a developer based in France, primarily focused on **Reverse Engineering** and **Application Development**.
+### About Me
 
-I am interested in what happens **behind the software** — understanding binaries, analyzing how systems work, and building complete applications from the ground up.
+I'm a developer based in **France**, focused on **Reverse Engineering, Software Development, and Security Research**.
 
-My work sits mainly between **Reverse Engineering, Windows, and software development**, with a particular interest in understanding what happens beneath high-level abstractions.
+I'm particularly interested in understanding how software works beneath the surface — from executable structures and binary analysis to operating system internals and application behavior.
 
-<br/>
+I enjoy going beyond high-level abstractions, investigating how things work internally, and turning that knowledge into practical software.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45"/>
+My approach combines **low-level analysis, system understanding, and application engineering**.
 
-</div>
+`<br/>`
 
-<br/>
+`<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45"/>`
+
+`<br/>`
+
+`<sub>Reverse Engineering · Windows Internals · Binary Analysis · Software Architecture · Security Research</sub>`
+
+`</div>`
 
 ---
-
-<br/>
 
 ## Projects
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+`<table width="100%">`
+`<tr>`
+`<td width="50%" valign="top">`
 
 ### PULSE
 
-*"Is there anything on my PC that deserves my attention?"*
+*Know what's happening on your machine.*
 
-A Windows application focused on system analysis, monitoring, and diagnostics — designed to highlight what actually matters on a machine.
+A Windows application focused on system analysis, monitoring, and diagnostics. Designed to identify relevant system activity, highlight potential issues, and provide a clearer understanding of machine health.
 
 `Python` `PySide6` `Windows`
 
-</td>
-
-<td width="50%" valign="top">
+`</td>`
+`<td width="50%" valign="top">`
 
 ### VaultSC
 
-*"My privacy, in one place."*
+*Your data. Your control. Your privacy.*
 
-A local application designed to organize and manage personal data while keeping control entirely in the user's hands.
+A local-first application designed to organize and manage personal information while keeping data ownership, privacy, and control in the user's hands.
 
 `Python` `PySide6` `SQLite`
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+`</td>`
+`</tr>`
+`<tr>`
+`<td width="50%" valign="top">`
 
 ### SYNTAX
 
-*"A binary should never be a black box."*
+*Understand every layer of a binary.*
 
-A Reverse Engineering project focused on analyzing compiled software, executable structures, execution flow, and low-level behavior.
+A Reverse Engineering project exploring compiled software, executable formats, binary structures, execution flow, and low-level program behavior.
 
 `C++` `C` `Assembly` `Windows`
 
-</td>
-
-<td width="50%" valign="top">
+`</td>`
+`<td width="50%" valign="top">`
 
 ### AEGIS
 
-*"Your system deserves more than a simple alert."*
+*See beyond the surface of system security.*
 
-A Windows security and monitoring project focused on observing system behavior, processes, events, and unusual changes.
+A Windows security and monitoring project focused on system observability, process behavior, event analysis, and the detection of unusual system changes.
 
 `C++` `Windows`
 
-</td>
-</tr>
-</table>
-
-<br/>
+`</td>`
+`</tr>`
+`</table>`
 
 ---
 
-<br/>
-
 ## Security Research
-
-<br/>
 
 ### GitHub Advisory Database
 
 **MathLive — CVE-2026-54705**
 
-Community security advisory contribution focused on improving the technical documentation of a MathLive XSS vulnerability, including affected rendering paths, impact, references, and vulnerability context.
+Contributed to the GitHub Security Advisory Database through technical documentation improvements for a MathLive XSS vulnerability.
 
-**Status:** `Open`
+The contribution focuses on clarifying the vulnerability context, affected rendering paths, potential impact, and supporting technical references.
 
-**Repository:** [`github/advisory-database`](https://github.com/github/advisory-database)
+- **Status:** `Open`
+- **Repository:** [github/advisory-database](https://github.com/github/advisory-database)
+- **Pull Request:** [#9121](https://github.com/github/advisory-database/pull/9121)
+- **Advisory:** [GHSA-fm7p-gw32-828p](https://github.com/advisories/GHSA-fm7p-gw32-828p)
 
-**Pull Request:** [`#9121`](https://github.com/github/advisory-database/pull/9121)
-
-**Advisory:** [`GHSA-fm7p-gw32-828p`](https://github.com/advisories/GHSA-fm7p-gw32-828p)
-
-`Security Research` `CVE` `XSS` `GitHub Advisory Database`
-
-<br/>
+`Security Research` `CVE` `XSS` `Vulnerability Analysis`
 
 ---
-
-<br/>
 
 ## Activity
 
-<br/>
+`<div align="center">`
 
-<div align="center">
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="95%"/>`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="90%"/>
-
-</div>
-
-<br/>
+`</div>`
 
 ---
 
-<br/>
-
-<div align="center">
+`<div align="center">`
 
 **Knyazovich**
 
-<br/>
+`<br/>`
 
-<sub>Understand the software. Build what comes next.</sub>
+`<sub>Understand the software. Build what comes next.</sub>`
 
-<br/><br/>
+`<br/><br/>`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:0d0d0d&section=footer" width="100%"/>
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%"/>`
 
-</div>
+`</div>`
