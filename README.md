@@ -1,14 +1,17 @@
-`<div align="center">`
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%"/>`
+<div align="center">
 
-`<br/>`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%"/>
 
-`<img src="https://readme-typing-svg.demolab.com/?lines=Understanding+software+from+the+inside+out;Analyzing+binaries.+Exploring+systems.;Turning+low-level+knowledge+into+real+software.;Reverse+Engineering+%C2%B7+Windows+Internals+%C2%B7+C%2B%2B&font=Fira+Code&center=true&width=800&height=45&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>`
+<br/>
 
-`<br/><br/>`
+<img src="https://readme-typing-svg.demolab.com/?lines=Understanding+software+from+the+inside+out;Analyzing+binaries.+Exploring+systems.;Turning+low-level+knowledge+into+real+software.;Reverse+Engineering+%C2%B7+Windows+Internals+%C2%B7+C%2B%2B&font=Fira+Code&center=true&width=800&height=45&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>
 
-### About Me
+<br/><br/>
+
+</div>
+
+## About Me
 
 I'm a developer based in **France**, focused on **Reverse Engineering, Software Development, and Security Research**.
 
@@ -18,70 +21,70 @@ I enjoy going beyond high-level abstractions, investigating how things work inte
 
 My approach combines **low-level analysis, system understanding, and application engineering**.
 
-`<br/>`
+<div align="center">
 
-`<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45"/>`
+<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45"/>
 
-`<br/>`
+<br/><br/>
 
-`<sub>Reverse Engineering · Windows Internals · Binary Analysis · Software Architecture · Security Research</sub>`
+<sub>Reverse Engineering · Windows Internals · Binary Analysis · Software Architecture · Security Research</sub>
 
-`</div>`
+</div>
 
 ---
 
 ## Projects
 
-`<table width="100%">`
-`<tr>`
-`<td width="50%" valign="top">`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### PULSE
+<h3>PULSE</h3>
 
-*Know what's happening on your machine.*
+<p><i>Know what's happening on your machine.</i></p>
 
 A Windows application focused on system analysis, monitoring, and diagnostics. Designed to identify relevant system activity, highlight potential issues, and provide a clearer understanding of machine health.
 
-`Python` `PySide6` `Windows`
+<p><code>Python</code> <code>PySide6</code> <code>Windows</code></p>
 
-`</td>`
-`<td width="50%" valign="top">`
+</td>
+<td width="50%" valign="top">
 
-### VaultSC
+<h3>VaultSC</h3>
 
-*Your data. Your control. Your privacy.*
+<p><i>Your data. Your control. Your privacy.</i></p>
 
 A local-first application designed to organize and manage personal information while keeping data ownership, privacy, and control in the user's hands.
 
-`Python` `PySide6` `SQLite`
+<p><code>Python</code> <code>PySide6</code> <code>SQLite</code></p>
 
-`</td>`
-`</tr>`
-`<tr>`
-`<td width="50%" valign="top">`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### SYNTAX
+<h3>SYNTAX</h3>
 
-*Understand every layer of a binary.*
+<p><i>Understand every layer of a binary.</i></p>
 
 A Reverse Engineering project exploring compiled software, executable formats, binary structures, execution flow, and low-level program behavior.
 
-`C++` `C` `Assembly` `Windows`
+<p><code>C++</code> <code>C</code> <code>Assembly</code> <code>Windows</code></p>
 
-`</td>`
-`<td width="50%" valign="top">`
+</td>
+<td width="50%" valign="top">
 
-### AEGIS
+<h3>AEGIS</h3>
 
-*See beyond the surface of system security.*
+<p><i>See beyond the surface of system security.</i></p>
 
 A Windows security and monitoring project focused on system observability, process behavior, event analysis, and the detection of unusual system changes.
 
-`C++` `Windows`
+<p><code>C++</code> <code>Windows</code></p>
 
-`</td>`
-`</tr>`
-`</table>`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,24 +109,24 @@ The contribution focuses on clarifying the vulnerability context, affected rende
 
 ## Activity
 
-`<div align="center">`
+<div align="center">
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="95%"/>`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="95%"/>
 
-`</div>`
+</div>
 
 ---
 
-`<div align="center">`
+<div align="center">
 
 **Knyazovich**
 
-`<br/>`
+<br/>
 
-`<sub>Understand the software. Build what comes next.</sub>`
+<sub>Understand the software. Build what comes next.</sub>
 
-`<br/><br/>`
+<br/><br/>
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%"/>`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%"/>
 
-`</div>`
+</div>
