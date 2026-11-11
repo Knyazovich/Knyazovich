@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Learning+by+building+projects;Exploring+how+software+works;Interested+in+Reverse+Engineering;Always+trying+something+new&font=Fira+Code&center=true&width=700&height=40&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Learning+by+building;Exploring+how+software+works;Interested+in+Reverse+Engineering;Always+trying+something+new&font=Fira+Code&center=true&width=700&height=40&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -15,72 +15,17 @@
 
 Hi! I'm a beginner developer from **France**.
 
-I enjoy programming, learning new things and building my own projects.
+I enjoy programming, learning new things and exploring how software works.
 
-I'm especially interested in **Reverse Engineering**, Windows applications and understanding how software works behind the scenes.
+I'm especially interested in **Reverse Engineering**, Windows applications and understanding what happens behind the scenes.
 
-I mostly work with Python and C++, and I'm always trying to improve my skills by experimenting with new ideas.
+I mainly work with Python and C++, and I'm always looking to improve my skills and discover new technologies.
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,github,windows,linux&theme=dark" height="45"/>
 
 </div>
-
----
-
-## My Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### PULSE
-
-*Know what's happening on your PC.*
-
-A Windows application I'm developing to monitor the system, check its status and make useful information easier to understand.
-
-`Python` `PySide6` `Windows`
-
-</td>
-<td width="50%" valign="top">
-
-### VaultSC
-
-*Your data, your privacy.*
-
-A personal project designed to store and organize data locally, with a focus on privacy and simplicity.
-
-`Python` `PySide6` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### SYNTAX
-
-*Exploring what's inside a binary.*
-
-A project focused on learning Reverse Engineering, understanding executable files and exploring how compiled programs work.
-
-`C++` `C` `Assembly` `Windows`
-
-</td>
-<td width="50%" valign="top">
-
-### AEGIS
-
-*Keeping an eye on your system.*
-
-A Windows project focused on monitoring processes, system events and changes happening on the machine.
-
-`C++` `Windows`
-
-</td>
-</tr>
-</table>
 
 ---
 
