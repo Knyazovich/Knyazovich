@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%" alt="Knyazovich profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d0d0d,100:1a1a1a&section=header&text=Knyazovich&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Programming%20%C2%B7%20Reverse%20Engineering%20%C2%B7%20Windows&descAlignY=58&descSize=16&descColor=9a9a9a" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Understanding+software+from+the+inside+out;Analyzing+binaries.+Exploring+systems.;Turning+low-level+knowledge+into+real+software.;Reverse+Engineering+%C2%B7+Windows+Internals+%C2%B7+C%2B%2B&font=Fira+Code&center=true&width=800&height=45&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Learning+by+building+projects;Exploring+how+software+works;Interested+in+Reverse+Engineering;Always+trying+something+new&font=Fira+Code&center=true&width=700&height=40&color=cccccc&vCenter=true&size=17&pause=2000&background=00000000" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -13,74 +13,70 @@
 
 ## About Me
 
-I'm a developer based in **France**, focused on **Reverse Engineering, Software Development, and Security Research**.
+Hi! I'm a beginner developer from **France**.
 
-I'm particularly interested in understanding how software works beneath the surface — from executable structures and binary analysis to operating system internals and application behavior.
+I enjoy programming, learning new things and building my own projects.
 
-I enjoy going beyond high-level abstractions, investigating how things work internally, and turning that knowledge into practical software.
+I'm especially interested in **Reverse Engineering**, Windows applications and understanding how software works behind the scenes.
 
-My approach combines **low-level analysis, system understanding, and application engineering**.
+I mostly work with Python and C++, and I'm always trying to improve my skills by experimenting with new ideas.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45" alt="Technologies"/>
-
-<br/><br/>
-
-<sub>Reverse Engineering · Windows Internals · Binary Analysis · Software Architecture · Security Research</sub>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,github,windows,linux&theme=dark" height="45"/>
 
 </div>
 
 ---
 
-## Projects
+## My Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>PULSE</h3>
+### PULSE
 
-<p><i>Know what's happening on your machine.</i></p>
+*Know what's happening on your PC.*
 
-A Windows application focused on system analysis, monitoring, and diagnostics. Designed to identify relevant system activity, highlight potential issues, and provide a clearer understanding of machine health.
+A Windows application I'm developing to monitor the system, check its status and make useful information easier to understand.
 
-<p><code>Python</code> <code>PySide6</code> <code>Windows</code></p>
+`Python` `PySide6` `Windows`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>VaultSC</h3>
+### VaultSC
 
-<p><i>Your data. Your control. Your privacy.</i></p>
+*Your data, your privacy.*
 
-A local-first application designed to organize and manage personal information while keeping data ownership, privacy, and control in the user's hands.
+A personal project designed to store and organize data locally, with a focus on privacy and simplicity.
 
-<p><code>Python</code> <code>PySide6</code> <code>SQLite</code></p>
+`Python` `PySide6` `SQLite`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>SYNTAX</h3>
+### SYNTAX
 
-<p><i>Understand every layer of a binary.</i></p>
+*Exploring what's inside a binary.*
 
-A Reverse Engineering project exploring compiled software, executable formats, binary structures, execution flow, and low-level program behavior.
+A project focused on learning Reverse Engineering, understanding executable files and exploring how compiled programs work.
 
-<p><code>C++</code> <code>C</code> <code>Assembly</code> <code>Windows</code></p>
+`C++` `C` `Assembly` `Windows`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>AEGIS</h3>
+### AEGIS
 
-<p><i>See beyond the surface of system security.</i></p>
+*Keeping an eye on your system.*
 
-A Windows security and monitoring project focused on system observability, process behavior, event analysis, and the detection of unusual system changes.
+A Windows project focused on monitoring processes, system events and changes happening on the machine.
 
-<p><code>C++</code> <code>Windows</code></p>
+`C++` `Windows`
 
 </td>
 </tr>
@@ -94,32 +90,14 @@ A Windows security and monitoring project focused on system observability, proce
 
 **MathLive — CVE-2026-54705**
 
-Contributed to the GitHub Security Advisory Database through technical documentation improvements for a MathLive XSS vulnerability.
-
-The contribution focuses on clarifying the vulnerability context, affected rendering paths, potential impact, and supporting technical references.
+Contributed to the documentation of a MathLive XSS vulnerability in the GitHub Advisory Database.
 
 - **Status:** `Open`
 - **Repository:** [github/advisory-database](https://github.com/github/advisory-database)
 - **Pull Request:** [#9121](https://github.com/github/advisory-database/pull/9121)
 - **Advisory:** [GHSA-fm7p-gw32-828p](https://github.com/advisories/GHSA-fm7p-gw32-828p)
 
-`Security Research` `CVE` `XSS` `Vulnerability Analysis`
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Knyazovich&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" width="70%" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<a href="https://github.com/Knyazovich?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
-</a>
-
-</div>
+`Security` `XSS` `CVE`
 
 ---
 
@@ -129,10 +107,10 @@ The contribution focuses on clarifying the vulnerability context, affected rende
 
 <br/>
 
-<sub>Understand the software. Build what comes next.</sub>
+<sub>Learning, building and figuring things out.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:0d0d0d&section=footer" width="100%"/>
 
 </div>
