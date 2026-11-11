@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080808,100:202020&section=header&text=Knyazovich&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Reverse%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Security%20Research&descAlignY=58&descSize=15&descColor=999999" width="100%" alt="Knyazovich profile header"/>
 
 <br/>
 
@@ -23,7 +23,7 @@ My approach combines **low-level analysis, system understanding, and application
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,powershell,qt,sqlite,git,githubactions,windows,linux&theme=dark" height="45" alt="Technologies"/>
 
 <br/><br/>
 
@@ -111,7 +111,13 @@ The contribution focuses on clarifying the vulnerability context, affected rende
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Knyazovich&theme=github-compact&hide_border=true&bg_color=00000000&color=b0b0b0&line=ffffff&point=ffffff&area=true&area_color=2b2b2b" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Knyazovich&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" width="70%" alt="GitHub Statistics"/>
+
+<br/><br/>
+
+<a href="https://github.com/Knyazovich?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+</a>
 
 </div>
 
@@ -127,6 +133,6 @@ The contribution focuses on clarifying the vulnerability context, affected rende
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:202020,100:080808&section=footer" width="100%" alt="Footer"/>
 
 </div>
